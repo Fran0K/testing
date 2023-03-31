@@ -1,0 +1,4 @@
+hctest (0.0.1) focal; urgency=medium
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- FrankLam <lhc1256744295@hotmail.com>  Thu, 30 Mar 2023 02:00:10 -0700
